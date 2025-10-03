@@ -11,6 +11,11 @@ A Flutter package for creating smooth animated car markers on Google Maps. This 
 - 🎛️ **Customizable animations** with smoothness and speed controls
 - 📊 **Debug and monitoring** tools for animation statistics
 - 🧹 **Clean API** with comprehensive documentation and error handling
+## Demo
+
+Here is a quick demo of how the package works:
+
+![A demo of my package's main feature](https://raw.githubusercontent.com/MohamedSonata/animated-car-marker/refs/heads/main/assets/media/demo.gif)
 
 ## Installation
 
