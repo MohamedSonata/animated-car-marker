@@ -1,12 +1,19 @@
 name: animated_car_marker
 description: "A Flutter package for creating smooth animated car markers on Google Maps. This package provides easy-to-use APIs for managing animated car markers with rotation, lifecycle management, and performance optimization."
-version: 0.0.1
-homepage: "https://animated-car-marker.xefro.net" # Coming soon
-
+version: 0.0.2
+homepage: https://animated-car-marker.xefro.net # Coming soon
+repository: https://github.com/MohamedSonata/animated-car-marker
 environment:
   sdk: ^3.8.1
   flutter: ">=1.17.0"
 
+platforms:
+  android:
+  ios:
+  linux:
+  macos:
+  web:
+  windows:
 dependencies:
   flutter:
     sdk: flutter

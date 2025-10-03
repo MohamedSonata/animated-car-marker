@@ -87,6 +87,7 @@ if (AnimatedCarMarkerManager.shouldDriverAnimate('driver123')) {
     _updateDriverMarker('driver123');
   });
 }
+```
 
 ### 4. Create rotated markers
 
